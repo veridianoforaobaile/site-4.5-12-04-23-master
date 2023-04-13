@@ -30,3 +30,13 @@ body
        top: 20%;
        animation: fadeInRightBig 4s;
    }
+   .d0
+   {
+    background-color:red;
+    width: 40%;
+    height: 55%;
+    position: absolute;  
+    top: 25%; 
+    left: 29%;
+
+   }
