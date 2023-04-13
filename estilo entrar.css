@@ -38,5 +38,6 @@ body
     position: absolute;  
     top: 25%; 
     left: 29%;
+	animation: bounceInUp 4s;
 
    }
